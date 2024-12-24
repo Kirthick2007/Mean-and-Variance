@@ -1,4 +1,7 @@
 #  Mean and variance of a discrete  distribution
+# Ex no: 1
+# Name : KIRTHICK SHA R
+# Reg number : 24900676
 #  Date:
 
 
